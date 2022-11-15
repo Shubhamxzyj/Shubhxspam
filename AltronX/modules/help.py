@@ -2,7 +2,7 @@ from config import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_USERS
 from telethon import events, Button
 
 
-PythonHelp = f"★ 𝙏𝙝𝙚𝘽𝙤𝙩𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ItzExStar**"
+PythonHelp = f"★ 𝙏𝙝𝙚𝘽𝙤𝙩𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴍʏ ᴏᴡɴᴇʀ : [𝐇ɪᴛʟᴇʀ](https://t.me/MY5T3R10U5_X_HITLER)**\n» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐏ʏᴛʜᴏɴ](https://t.me/ItzExStar)**"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -18,7 +18,7 @@ PythonHelp = f"★ 𝙏𝙝𝙚𝘽𝙤𝙩𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 �
 async def help(event):
     if event.sender_id in SUDO_USERS:
        await event.client.send_file(event.chat_id,
-                                  "https://te.legra.ph/file/07d39b85c6cea32f15259.jpg",
+                                  "https://te.legra.ph/file/9c3991027a851d484b75c.jpg",
                                   caption=PythonHelp,
                                   buttons=[
            [
@@ -29,7 +29,7 @@ async def help(event):
             Button.inline("• ᴇxᴛʀᴀ •", data="extra"),
            ],
            [    
-            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/Altron_X"),
+            Button.url("• ɢʀᴏᴜᴘ •", "https://t.me/MYSTERIOUS_BDY"),
             Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/TheAltron")
            ],
            ],

@@ -1,7 +1,6 @@
 import os
 import sys
 import heroku3
-from datetime import datetime
 from config import MK1, MK2, MK3, MK4, MK5 , MK6, MK7, MK8, MK9, MK10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, CMD_HNDLR as hl
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon import events
@@ -19,11 +18,7 @@ from telethon import events
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 async def ping(e):
     if e.sender_id in SUDO_USERS:
-        start = datetime.now()
-        altron = await e.reply(f"» __ᴀʟᴛʀᴏɴ__", parse_mode=None, link_preview=None)
-        end = datetime.now()
-        mp = (end - start).microseconds / 1000
-        await altron.edit(f"__🤖 ᴘɪɴɢ__\n» `{mp} ms`")
+        await e.reply("✰  𝐏𝐨𝐧𝐠  ✰\n\n«• 𝐇𝐢𝐭𝐥𝐞𝐫  𝐗  𝐒𝐩𝐚𝐦 •»", parse_mode=None, link_preview=None)
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))

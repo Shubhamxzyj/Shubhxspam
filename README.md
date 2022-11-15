@@ -1,11 +1,11 @@
-<h1 align="center"><b>😈 𝙏𝙝𝙚𝘼𝙡𝙩𝙧𝙤𝙣𝙎𝙥𝙖𝙢 🔥💫 😈</b></h1>
+<h1 align="center"><b>😈 𝙏𝙝𝙚𝙃𝙞𝙡𝙩𝙚𝙧𝙎𝙥𝙖𝙢 🔥💫 😈</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/ItzExStar"><img src="https://te.legra.ph/file/07d39b85c6cea32f15259.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/ItzExStar"><img src="https://te.legra.ph/file/9c3991027a851d484b75c.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS OP AltronX SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS OP HITLER SPAM BOT, That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -15,12 +15,19 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-- ⚠️ Do not forget to fork this repo. Else error can occur at deploy time.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ItZxSTaR/TheBotSpam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mysteriousxhitler/TheBotSpam)
   
 </details>
 
+
+<details>
+<summary><b>ᴄʀᴇᴅɪᴛꜱ</b></summary>
+<br>
+
+# ᴄʀᴇᴅɪᴛꜱ 🖤
+
+- [𝐏ʏᴛʜᴏɴ](https://github.com/ItZxSTaR)
+</details>
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
