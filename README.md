@@ -15,6 +15,8 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
+- ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mysteriousxhitler/TheBotSpam)
   
 </details>
