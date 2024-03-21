@@ -1,4 +1,4 @@
-<h1 align="center"><b>😈 𝙏𝙝𝙚𝙃𝙞𝙡𝙩𝙚𝙧𝙎𝙥𝙖𝙢 🔥💫 😈</b></h1>
+<h1 align="center"><b>𝄟✮͢🦋⃟≛⃝ 🇸ʜᴜʙʜ ⓧ🇸ᴘᴀᴍ 𝟏✮⃝ᵉᵛⁱˡ</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
@@ -17,7 +17,7 @@
 
 - ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mysteriousxhitler/TheBotSpam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Shubxspam/TheBotSpam)
   
 </details>
 
